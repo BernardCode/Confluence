@@ -18,7 +18,7 @@ Demo state is kept in the browser (`localStorage`), so use the reset button in t
 
 ## Stack
 
-TanStack Start (SPA mode), React 19, TypeScript, Tailwind CSS 4, Three.js, Recharts, and shadcn/ui. Tests run on Vitest.
+TanStack Start (static prerender), React 19, TypeScript, Tailwind CSS 4, Three.js, Recharts, and shadcn/ui. Tests run on Vitest.
 
 ## Run locally
 
